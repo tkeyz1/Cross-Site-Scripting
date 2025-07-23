@@ -1,13 +1,13 @@
 # Cross-Site-Scripting
 
 
-## 📌 Project Objective
+##  Project Objective
 
 The objective of this project is to perform Reflected XSS and Stored XSS attacks against the DVWA (Damn Vulnerable Web Application!) at low, medium, and high security levels.
 
-## 🧠 Skills Learned
+##  Skills Learned
 
- 🔹# 📚 Skills Learned in Cross-Site Scripting (XSS)
+ 🔹#  Skills Learned in Cross-Site Scripting (XSS)
 
 Cross-Site Scripting (XSS) is one of the most common and dangerous vulnerabilities in web applications. Learning how it works provides both offensive and defensive cybersecurity skills.
 
@@ -20,7 +20,7 @@ Cross-Site Scripting (XSS) is one of the most common and dangerous vulnerabiliti
 
 ---
 
-## ✏ 2. Input Validation & Output Encoding
+##  2. Input Validation & Output Encoding
 - Understand the importance of validating and sanitizing user input.
 - Learn how unescaped input can result in code execution.
 - Explore output encoding (HTML, URL, JavaScript) to prevent XSS.
